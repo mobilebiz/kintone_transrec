@@ -1,0 +1,15 @@
+{
+  "logMode": "debug",
+  "transrecApi": {
+    "host": "api.transrec.net",
+    "path": "/v1",
+    "port": 443,
+    "SID": "TRANSRECのAPIのSIDを指定してください",
+    "Token": "TRANSRECのAPIのTokenを指定してください"
+  },
+  "kintone": {
+    "appHost": "Kintoneのアプリ名（例：hogehoge.cybozu.com）を指定してください",
+    "id": "KintoneのID（メールアドレス）を指定してください",
+    "pass": "Kintoneのパスワードを指定してください"
+  }
+}
